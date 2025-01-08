@@ -1,6 +1,6 @@
-# Rust-Raft ⚠️ (active development)
+# Raft Consensus ⚠️ (active development)
 
-Rust Raft Implementation
+Raft Consensus Implementation in Rust
 
 <!-- ![Flow Diagram](https://github.com/TheDhejavu/rust-raft/blob/main/public/rust-raft.png) -->
 
